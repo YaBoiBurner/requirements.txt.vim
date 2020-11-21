@@ -1,5 +1,4 @@
 filetype plugin on
-runtime! plugin/requirements.vim
 
 describe 'enable: Requirements_matched_filename()'
     it 'to enable file type detection: basic filename'
